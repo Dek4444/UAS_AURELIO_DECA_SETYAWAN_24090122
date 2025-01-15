@@ -18,7 +18,7 @@ class Buah:
 
 buah1 = Buah ('Melon', 'Besar','Manis')
 
-buah1.setNama('Melon pink')
+buah1.setNama('Melon')
 buah1.setWarna('ijo')
 buah1.setRasa('Manis')
 
