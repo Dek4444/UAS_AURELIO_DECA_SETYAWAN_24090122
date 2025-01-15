@@ -29,10 +29,10 @@ print("Nilai Mahasiswa:")
 for i in range(jumlah_mahasiswa):
     print(f"Mahasiswa {i+1}: {nilai_mahasiswa[i]}")
 
-print("\nRata-rata per Mata Kuliah:")
+print("\Rata-rata per Mata Kuliah:")
 for i in range(jumlah_mata_kuliah):
     print(f"Mata Kuliah {i+1}: {rata_rata_mata_kuliah[i]}")
 
-print("\nRata-rata per Mahasiswa:")
+print("\Rata-rata per Mahasiswa:")
 for i in range(jumlah_mahasiswa):
     print(f"Mahasiswa {i+1}: {rata_rata_mahasiswa[i]}")
